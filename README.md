@@ -25,12 +25,18 @@ standard (PMBOK, MHLW, JIS, ACI) is the actual product.
 | [🏗️ Concrete Pour Window](https://khanhaissam.github.io/concrete-pour-weather-window/) | 48-hour pour go/no-go against ACI/JIS thresholds |
 | [🍱 Restaurant Finder](https://japan-restaurant-finder.vercel.app/) | Halal / allergy-safe dining in Japan — built for my own family first |
 
-### 📂 How I work, not just what I built
+## 🛠️ Skills & Tech
 
-[**Case study — Making projects visible: building a PMO operating mechanism**](https://khanhaissam.github.io/case-study-pmo.html)
-A new delivery team, 12+ parallel projects, and monthly reviews that opened with "which numbers
-are correct?" Standards first, automation second, dashboards last — halving reporting effort,
-eliminating recurring correction cycles, and earning the ALJ Stars Award.
+![Generative AI](https://img.shields.io/badge/Generative_AI-Gemini_&_GPT-blue?style=for-the-badge&logo=google-gemini)
+![Project Management](https://img.shields.io/badge/Project_Management-PMP_&_Agile-green?style=for-the-badge&logo=pmi)
+![Process Improvement](https://img.shields.io/badge/Process_Improvement-Lean_Six_Sigma-purple?style=for-the-badge)
+![AI Governance](https://img.shields.io/badge/AI_Governance-Policy_&_Ethics-lightgrey?style=for-the-badge)
+
+- **Generative AI:** Business tooling and rapid prototyping with a problem-solving approach.
+- **Project Management:** Digital transformation, AI solution delivery, and program management.
+- **Process Improvement:** Lean Six Sigma and Continuous Improvement for Operational Excellence.
+- **AI Governance & Policy:** Contributor to AI policy research (CAIDP Annual Report 2025).
+- **Languages:** Fluent in English, Daily Conversational in Japanese.
 
 ### 🔭 Currently
 
