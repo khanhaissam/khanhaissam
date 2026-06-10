@@ -7,8 +7,6 @@ Air Liquide, Mitsubishi Fuso, JGC, Nokia. Owner-side and EPC experience on capit
 valued up to USD 80M, now leading PMO governance, Lean Six Sigma cost-out programs, and
 practical AI adoption at Air Liquide Japan.
 
-PMP · Lean Six Sigma Black Belt · MBA (Kyoto University) · MA (Waseda University)
-
 I'm not a software engineer. I'm a project manager who treats AI as a power tool — every repo
 here started as a real problem someone on my team had that week. All tools are designed by me
 and built with AI-assisted development; the judgment about what to build, for whom, and to which
