@@ -29,7 +29,7 @@ standard (PMBOK, MHLW, JIS, ACI) is the actual product.
 
 ### 📂 How I work, not just what I built
 
-[**Case study — Making 12 projects visible: building a PMO operating mechanism**](https://khanhaissam.github.io/case-study-pmo.html)
+[**Case study — Making projects visible: building a PMO operating mechanism**](https://khanhaissam.github.io/case-study-pmo.html)
 A new delivery team, 12+ parallel projects, and monthly reviews that opened with "which numbers
 are correct?" Standards first, automation second, dashboards last — halving reporting effort,
 eliminating recurring correction cycles, and earning the ALJ Stars Award.
