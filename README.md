@@ -1,6 +1,6 @@
 # Haissam Khan
 
-**Industrial Project & Program Manager in Tokyo — I build the tools my teams need but can't buy.**
+**Project & Program Manager in Tokyo — I build the tools my teams need but can't buy.**
 
 15 years running complex delivery across industrial, automotive, and technology companies —
 Air Liquide, Mitsubishi Fuso, JGC, Nokia. Owner-side and EPC experience on capital projects
